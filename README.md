@@ -1,7 +1,2 @@
-# AlgorithmInPython
-Algorithm writting in  Python
+# AlgorithmInPython ---design pattern
 
-
-#map类维护地图信息
-
-算法主要维护open集和closed集合
